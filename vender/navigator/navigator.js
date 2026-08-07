@@ -40,7 +40,6 @@
 var SpatialNavigator = function () {
   this._focus = null;
   this._previous = null;
-  this._collection = [];
 
   //this.setCollection(collection);
 
